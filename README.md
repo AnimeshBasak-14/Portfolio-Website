@@ -61,7 +61,23 @@ To set up the project locally, follow these steps:
 - **Contact**: Use the provided links to connect with Animesh on LinkedIn, GitHub, or via email.
 
 ## Project Structure
-portfolio/ ├── chatbot/ │ ├── pycache/ │ ├── .env │ ├── app.py │ ├── requirements.txt ├── img/ ├── pages/ │ ├── chatbot.html │ ├── contact.html │ ├── introduction.html │ ├── resume.html │ ├── skills.html │ ├── styles.css ├── script.js ├── styles.css ├── index.html
+portfolio/
+├── chatbot/
+│   ├── __pycache__/
+│   ├── .env
+│   ├── app.py
+│   ├── requirements.txt
+├── img/
+├── pages/
+│   ├── chatbot.html
+│   ├── contact.html
+│   ├── introduction.html
+│   ├── resume.html
+│   ├── skills.html
+├── script.js
+├── styles.css
+├── index.html
+
 
 
 ## Technologies Used
