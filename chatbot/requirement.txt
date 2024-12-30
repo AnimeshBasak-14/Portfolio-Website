@@ -1,0 +1,11 @@
+flask
+python-dotenv
+langchain
+langchain-chroma
+langchain-huggingface
+langchain-community
+langchain-groq
+chromadb
+PyPDF2
+flask-corps
+
